@@ -1,5 +1,4 @@
 import "./styles.css";
-import Grid from "@material-ui/core/Grid";
 import Helmet from "react-helmet";
 import Ships from "./Components/Ship";
 
